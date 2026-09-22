@@ -1,0 +1,36 @@
+/* Custom Styles - Aéroclub */
+
+.hero-section {
+    background-color: #1a2238;
+    color: #ffffff;
+    padding: 100px 0;
+}
+
+.bg-dark-custom {
+    background-color: #111625;
+    color: #ffffff;
+}
+
+.btn-orange {
+    background-color: #e67e22;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-orange:hover {
+    background-color: #d35400;
+    color: #ffffff;
+}
+
+/* Conteneur d'image vide (placeholder) */
+.img-placeholder {
+    background-color: #e9ecef;
+    border: 2px dashed #adb5bd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #6c757d;
+    font-weight: 500;
+    min-height: 220px;
+    width: 100%;
+}
